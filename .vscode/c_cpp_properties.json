@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/rclark/overlay_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/rclark/catkin_ws/src/VINS-Mono/camera_model/include/**",
+                "/home/rclark/overlay_ws/src/ros_tutorials/turtlesim/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
